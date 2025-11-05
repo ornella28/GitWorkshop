@@ -11,5 +11,10 @@
 **git commit -m "modify the hello class to hello all"**: commit the new changes, transfer them to git
 **git add .gitignore**: staged a file .gitignore i created
 **git commit -m "added a gitignore file"**: transfer the gitignore file to git
+**git remote add origin https://github.com/ornella28/Exercise1.git**. I linked the local repository Exercise1 to the remote repository
+**git add evaluation.txt**: staged a new file created
+**git commit -m "created a new evaluation.txt file": transfer the file to git
+
+
 
 
