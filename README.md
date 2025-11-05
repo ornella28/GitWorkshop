@@ -1,4 +1,4 @@
-# Exercise1
+# Comamands used
 **git init**: initiate the ceated repository Exercise1
 **git status**: check if the file created locally is showing in git##
 **git add note.txt**: stage the created file 
