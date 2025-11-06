@@ -30,7 +30,8 @@
    1.  https://github.com/ornella28/git_and_github_intro.git: cloned the forked colleague's repository into my local
    2.  git add -A: made changes remotely, then staged them locally
    3.  git commit -m "modified the file readme.md": committed the changes
-   4.  
+   4.  git revert 43cc5f0: reveerting the file evaluation.txt i had created
+   5.  then git push: so that this revert can work properly and be saved
 
 
 
