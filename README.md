@@ -15,6 +15,7 @@
 12. git remote add origin https://github.com/ornella28/Exercise1.git. I linked the local repository Exercise1 to the remote repository
 13. git add evaluation.txt: staged a new file created
 14. git commit -m "created a new evaluation.txt file": transfer the file to git
+    ---------This is another test--------
 
 ## Task2
 
