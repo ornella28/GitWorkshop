@@ -21,6 +21,11 @@
 1. git branch Exercise1: created a branch in the repository GitWorkshop
 2. git switch Exercise1. switching from main to the new branch created
 3. git fetch: fetching all the remote branches
+4. git branch --set-upstream-to=origin/Exercise1: connect the remote branch locally
+5. git branch -vv: verify that the tracking works
+6. 
+
+
 
 
 
