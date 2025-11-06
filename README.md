@@ -25,11 +25,12 @@
 5. git branch -vv: verify that the tracking works
    ##---------- this is a test------------##
 
+## Task3
 
-   6.  https://github.com/ornella28/git_and_github_intro.git: cloned the forked colleague's repository into my local
-   7.  git add -A: made changes remotely, then staged them locally
-   8.  git commit -m "modified the file readme.md": committed the changes
-   9.  
+   1.  https://github.com/ornella28/git_and_github_intro.git: cloned the forked colleague's repository into my local
+   2.  git add -A: made changes remotely, then staged them locally
+   3.  git commit -m "modified the file readme.md": committed the changes
+   4.  
 
 
 
