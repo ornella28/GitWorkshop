@@ -18,7 +18,9 @@
 
 ## Task2
 
-
+1. git branch Exercise1: created a branch in the repository GitWorkshop
+2. git switch Exercise1. switching from main to the new branch created
+3. git fetch: fetching all the remote branches
 
 
 
